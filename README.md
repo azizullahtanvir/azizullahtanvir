@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aziz Ullah Tanvir 👋
 
-<!--
-**azizullahtanvir/azizullahtanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a student based in Bangladesh, pursuing two degrees simultaneously:
+- **CCE** (Computer and Communication Engineering)
+- **BSc in Computer Science** at University of the People (UoPeople)
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 📚 Studying engineering and computer science
+- 🏫 Building **AG Institute** — an educational institute for underserved communities
+- 📖 Writing a book on education, resilience, and community development
+- 🤝 Developing **Azfara Foundation** — a nonprofit focused on education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Learning
+- Java (OOP)
+- C Programming
+- Electrical Engineering Basics
+- Web Development
+
+## Goals
+- Build impactful educational systems and road for marginalized communities
+- Grow as a software developer and engineer
+- Lead meaningful change through education and technology
+
+---
+*"Knowledge is responsibility."*
