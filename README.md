@@ -7,9 +7,8 @@ I'm a student based in Bangladesh, pursuing two degrees simultaneously:
 
 ## What I'm Working On
 - 📚 Studying engineering and computer science
-- 🏫 Building **AG Institute** — an educational institute for underserved communities
+- 🏫 Building **AG Institute** — an educational institute for all
 - 📖 Writing a book on education, resilience, and community development
-- 🤝 Developing **Azfara Foundation** — a nonprofit focused on education
 
 ## Skills I'm Learning
 - Java (OOP)
