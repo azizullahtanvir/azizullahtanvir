@@ -6,7 +6,7 @@
 
 ## What I'm Working On
 - 📚 Studying engineering and computer science
-- 🏫 Building **AG Institute** — an educational institute for all
+- 🏫 Building **AG Institute** : an educational institute for all
 - 📖 Writing a book on education, resilience, and community development
 
 ## Skills I'm Learning
