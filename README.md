@@ -1,7 +1,6 @@
 # Hi, I'm Aziz Ullah Tanvir 👋
 
 ## About Me
-I'm a student based in Bangladesh, pursuing two degrees simultaneously:
 - **CCE** (Computer and Communication Engineering)
 - **BSc in Computer Science** at University of the People (UoPeople)
 
@@ -17,7 +16,6 @@ I'm a student based in Bangladesh, pursuing two degrees simultaneously:
 - Web Development
 
 ## Goals
-- Build impactful educational systems and road for marginalized communities
 - Grow as a software developer and engineer
 - Lead meaningful change through education and technology
 
