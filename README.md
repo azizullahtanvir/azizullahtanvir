@@ -4,9 +4,26 @@
   <img src="github-banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-### Computer & Communication Engineering Student
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=azizullahtanvir&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-I am passionate about software development, web technologies, and problem solving. I enjoy learning new technologies and building projects that create a positive impact through education and community development.
+## 👨‍💻 About Me
+
+I am Aziz Ullah Tanvir, a Computer & Communication Engineering student passionate about software development, web technologies, and problem solving.
+
+Beyond academics, I am committed to using technology for education and humanitarian impact. I am building projects that promote learning, innovation, and community development.
+
+I believe technology should solve real-world problems and create opportunities for everyone.
+
+## 🌱 Currently Working On
+
+- 📚 Strengthening my programming fundamentals
+- 💻 Building web development projects
+- 🚀 Uploading university lab reports and projects
+- 🌍 Developing educational initiatives through AG Institute
+- ❤️ Growing Azfara Foundation through technology
+
 
 ---
 ## 🛠️ Tech Stack
@@ -52,6 +69,12 @@ I am passionate about software development, web technologies, and problem solvin
 
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=azizullahtanvir&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
 ## 🚀 Currently Learning
 
 - C Programming
@@ -82,6 +105,14 @@ I am passionate about software development, web technologies, and problem solvin
 - Contribute to open-source projects.
 - Create technology that benefits communities.
 
+- ## 📫 Connect With Me
+
+- GitHub: https://github.com/azizullahtanvir
+- Email: azizullahtanvir9@gmail.com
+
+- ## 💡 Quote
+
+> "Technology is most meaningful when it empowers people through knowledge, opportunity, and service."
 ---
 
 ⭐ Thank you for visiting my profile.
