@@ -1,23 +1,41 @@
-# Hi, I'm Aziz Ullah Tanvir 👋
+# Hi there, I'm Aziz Ullah 👋
 
-## About Me
-- **CCE** (Computer and Communication Engineering)
-- **BSc in Computer Science** at University of the People (UoPeople)
+### Computer & Communication Engineering Student
 
-## What I'm Working On
-- 📚 Studying engineering and computer science
-- 🏫 Building **AG Institute** : an educational institute for all
-- 📖 Writing a book on education, resilience, and community development
-
-## Skills I'm Learning
-- Java (OOP)
-- C Programming
-- Electrical Engineering Basics
-- Web Development
-
-## Goals
-- Grow as a software developer and engineer
-- Lead meaningful change through education and technology
+I am passionate about software development, web technologies, and problem solving. I enjoy learning new technologies and building projects that create a positive impact through education and community development.
 
 ---
-*"Knowledge is responsibility."*
+
+## 🚀 Currently Learning
+
+- C Programming
+- C++
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Git & GitHub
+
+---
+
+## 🎯 Interests
+
+- Software Development
+- Web Development
+- Open Source
+- Computer Networks
+- Educational Technology
+
+---
+
+## 📚 Current Goals
+
+- Upload all university lab reports professionally.
+- Build high-quality software projects.
+- Improve problem-solving skills.
+- Contribute to open-source projects.
+- Create technology that benefits communities.
+
+---
+
+⭐ Thank you for visiting my profile.
