@@ -43,14 +43,12 @@ I believe technology should solve real-world problems and create opportunities f
 
 </p>
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ## 🔥 GitHub Streak
