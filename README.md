@@ -1,4 +1,4 @@
-# Hi there, I'm Aziz Ullah 👋
+# Hi there, I'm Aziz Ullah Tanvir 👋
 
 ### Computer & Communication Engineering Student
 
