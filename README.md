@@ -16,6 +16,18 @@ Beyond academics, I am committed to using technology for education and humanitar
 
 I believe technology should solve real-world problems and create opportunities for everyone.
 
+## 📄 My Resume
+
+<p align="center">
+
+<a href="https://github.com/azizullahtanvir/raw/main/assets/Aziz_Ullah_Tanvir_CV.pdf">
+
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
 ## 🌱 Currently Working On
 
 - 📚 Strengthening my programming fundamentals
@@ -67,11 +79,18 @@ I believe technology should solve real-world problems and create opportunities f
 
 </p>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azizullahtanvir&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 💻 C Programming Labs | University C programming laboratory reports and source codes.         |
+| 🌐 Web Programming Labs | HTML, CSS, Bootstrap, PHP laboratory works.         |
+| 📂 Java Programming | Java sessional programs and OOP concepts.         |
+| 🎓 University Projects | Academic projects and assignments.         |
+| ❤️ Azfara Foundation | Education and humanitarian initiatives.        |
+| 🌍 AG Institute | Educational resources and community learning platform.      |
+
 
 ## 🚀 Currently Learning
 
@@ -103,10 +122,35 @@ I believe technology should solve real-world problems and create opportunities f
 - Contribute to open-source projects.
 - Create technology that benefits communities.
 
-- ## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- GitHub: https://github.com/azizullahtanvir
-- Email: azizullahtanvir9@gmail.com
+<p align="center">
+
+<a href="https://github.com/azizullahtanvir" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:azizullahtanvir9@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aziz-ullah-tanvir-2b8483280" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/share/1Xs2VHMpKc/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/azizullahtanvir" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/AzizUllah189596" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+</p>
 
 - ## 💡 Quote
 
