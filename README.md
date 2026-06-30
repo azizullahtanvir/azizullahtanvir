@@ -67,12 +67,6 @@ I believe technology should solve real-world problems and create opportunities f
 
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=azizullahtanvir&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
 ## 🚀 Currently Learning
 
 - C Programming
