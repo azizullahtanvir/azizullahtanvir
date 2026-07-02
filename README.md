@@ -65,39 +65,20 @@ University of the People (UoPeople)
 - Building a professional software engineering portfolio
 
 ## 🌟 Featured Projects
-
-### 🎓 AG Institute
+- 🎓 AG Institute : 
 Educational platform for community learning.
 
-🔗 Repository: https://github.com/azizullahtanvir
-
----
-
-### ❤️ Azfara Foundation
+- ❤️ Azfara Foundation :
 Technology-driven humanitarian initiative.
 
-🔗 Repository: https://github.com/azizullahtanvir
-
----
-
-### ✈️ TravelGo
+- ✈️ TravelGo :
 Responsive travel website built with HTML, CSS and JavaScript.
 
-🔗 Repository: https://github.com/azizullahtanvir
-
----
-
-### ☕ Java Sessional Repository
+- ☕ Java Sessional Repository :
 University Java laboratory assignments and projects.
 
-🔗 Repository: https://github.com/azizullahtanvir/Java-Sessional-E253042
-
----
-
-### 🌐 Web Programming Sessional Repository
+- 🌐 Web Programming Sessional Repository :
 HTML, CSS, JavaScript and Bootstrap projects.
-
-🔗 Repository: https://github.com/azizullahtanvir
 
 
 ## 📊 GitHub Analytics
