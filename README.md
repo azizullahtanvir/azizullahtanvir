@@ -43,23 +43,19 @@ I believe technology should solve real-world problems and create opportunities f
 
   
 
-## 🌱 Currently Working On
+## 🚀 Currently Working On
 
-- 🔭 Building **AG Institute** and **Azfara Foundation**
-- 💻 Strengthening my skills in **HTML, Java, C++, and Web Development**
-- 🌱 Exploring **Data Structures & Algorithms**
-- 🤝 Looking to contribute to **Open Source Projects**
-- 📖 Building a strong software engineering portfolio
-- 📚 Strengthening my programming fundamentals
-- 💻 Building web development projects
-- 🚀 Uploading university lab reports and projects
+- Building AG Institute and Azfara Foundation through technology
+- Developing educational and humanitarian software projects
+- Strengthening my skills in Java, C, and Web Development
+- Exploring Data Structures and Algorithms
+- Contributing to Open Source Projects
+- Building a professional software engineering portfolio
 
 
 
 
 ## 📊 GitHub Analytics
-
-
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -93,17 +89,31 @@ I believe technology should solve real-world problems and create opportunities f
 
 
 
-## 🚀 Currently Learning
+## 📚 Currently Learning
 
-- C Programming
-- C++
-- HTML
-- CSS
-- JavaScript
-- PHP
+- Java Programming
+- Data Structures & Algorithms
+- Web Development
 - Git & GitHub
+- Object-Oriented Programming
+- Software Engineering Principles
 
 ---
+## 🎓 Education
+
+- B.Sc. in Computer & Communication Engineering
+  International Islamic University Chittagong (IIUC)
+
+- Bachelor of Science in Computer Science
+  University of the People
+
+  ## 🌟 Featured Projects
+
+- 🌍 TravelGo – Responsive Travel Website
+- 🎓 AG Institute – Educational Initiative Platform
+- ❤️ Azfara Foundation – Community Development Project
+- ☕ Java Sessional Laboratory Repository
+- 🌐 Web Programming Sessional Repository
 
 ## 🎯 Interests
 
@@ -166,7 +176,9 @@ I believe technology should solve real-world problems and create opportunities f
 
 </p>
 
+## 🌍 My Mission
 
+To use technology and education to create opportunities and bring positive change to underserved communities.
 
 - ## 💡 Quote
 
