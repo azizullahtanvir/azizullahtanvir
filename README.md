@@ -19,6 +19,11 @@ Beyond academics, I am committed to using technology for education and humanitar
 I believe technology should solve real-world problems and create opportunities for everyone.
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -69,21 +74,17 @@ I believe technology should solve real-world problems and create opportunities f
 
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&theme=tokyonight&hide_border=true" />
+ <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🔥 GitHub Streak
 
 
-
-
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=azizullahtanvir&theme=tokyonight&hide_border=true"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=azizullahtanvir&theme=tokyonight&hide_border=true"/>
 
 </p>
 
