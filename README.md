@@ -12,12 +12,18 @@
 
 ## 👨‍💻 About Me
 
-I am Aziz Ullah Tanvir, a Computer & Communication Engineering student passionate about software development, web technologies, and problem solving.
+I am Aziz Ullah Tanvir, a Computer & Communication Engineering student.
 
-Beyond academics, I am committed to using technology for education and humanitarian impact. I am building projects that promote learning, innovation, and community development.
+I am passionate about software development, web technologies, and educational technology.
+
+Beyond academics, I am building AG Institute and Azfara Foundation to use technology and education as tools for community development and humanitarian impact.
 
 I believe technology should solve real-world problems and create opportunities for everyone.
 
+
+## 🌍 My Mission
+
+To build technology and educational systems that create opportunities for underserved communities and empower future generations through learning.
 
 
 ## 🛠️ Technologies & Tools I Have Learned
@@ -31,15 +37,21 @@ I believe technology should solve real-world problems and create opportunities f
 </p>
 
 
-## 🏆 Achievements
+## 🎓 Education & Achievements
 
-- 🎓 Computer & Communication Engineering Student
-- 💻 Computer Science Student at UoPeople
-- 📚 NGO School Teacher & Assistant Teacher Trainer
-- 🌍 Humanitarian Worker
-- 🚀 Working at **AG Institute**
-- ❤️ Working at **Azfara Foundation**
-- 🌱 Lifelong Learner and Technology Enthusiast
+🎓 B.Sc. in Computer & Communication Engineering  
+International Islamic University Chittagong (IIUC)
+
+🎓 Bachelor of Science in Computer Science  
+University of the People (UoPeople)
+
+🏆 NGO School Teacher & Assistant Teacher Trainer
+
+🏆 Working on AG Institute
+
+🏆 Working on Azfara Foundation
+
+🏆 Lifelong Learner and Technology Enthusiast
 
   
 
@@ -47,12 +59,45 @@ I believe technology should solve real-world problems and create opportunities f
 
 - Building AG Institute and Azfara Foundation through technology
 - Developing educational and humanitarian software projects
-- Strengthening my skills in Java, C, and Web Development
-- Exploring Data Structures and Algorithms
+- Improving Java and Web Development skills
+- Exploring Data Structures & Algorithms
 - Contributing to Open Source Projects
 - Building a professional software engineering portfolio
 
+## 🌟 Featured Projects
 
+### 🎓 AG Institute
+Educational platform for community learning.
+
+🔗 Repository: https://github.com/azizullahtanvir
+
+---
+
+### ❤️ Azfara Foundation
+Technology-driven humanitarian initiative.
+
+🔗 Repository: https://github.com/azizullahtanvir
+
+---
+
+### ✈️ TravelGo
+Responsive travel website built with HTML, CSS and JavaScript.
+
+🔗 Repository: https://github.com/azizullahtanvir
+
+---
+
+### ☕ Java Sessional Repository
+University Java laboratory assignments and projects.
+
+🔗 Repository: https://github.com/azizullahtanvir/Java-Sessional-E253042
+
+---
+
+### 🌐 Web Programming Sessional Repository
+HTML, CSS, JavaScript and Bootstrap projects.
+
+🔗 Repository: https://github.com/azizullahtanvir
 
 
 ## 📊 GitHub Analytics
@@ -71,6 +116,7 @@ I believe technology should solve real-world problems and create opportunities f
 <img height="200em" src="https://streak-stats.demolab.com?user=azizullahtanvir&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ## 📈 Contribution Graph
 
@@ -91,47 +137,37 @@ I believe technology should solve real-world problems and create opportunities f
 
 ## 📚 Currently Learning
 
-- Java Programming
 - Data Structures & Algorithms
-- Web Development
-- Git & GitHub
 - Object-Oriented Programming
 - Software Engineering Principles
-
+- Responsive Web Development
+- Git & GitHub Workflow
 ---
-## 🎓 Education
 
-- B.Sc. in Computer & Communication Engineering
-  International Islamic University Chittagong (IIUC)
 
-- Bachelor of Science in Computer Science
-  University of the People
-
-  ## 🌟 Featured Projects
-
-- 🌍 TravelGo – Responsive Travel Website
-- 🎓 AG Institute – Educational Initiative Platform
-- ❤️ Azfara Foundation – Community Development Project
-- ☕ Java Sessional Laboratory Repository
-- 🌐 Web Programming Sessional Repository
-
-## 🎯 Interests
+## 🎯 Interests & Goals
 
 - Software Development
 - Web Development
 - Open Source
 - Computer Networks
 - Educational Technology
+- Build high-quality software projects
+- Create technology that benefits communities
 
 ---
+## 📄 My Resume
 
-## 📚 Current Goals
+<p align="center">
 
-- Upload all university lab reports professionally.
-- Build high-quality software projects.
-- Improve problem-solving skills.
-- Contribute to open-source projects.
-- Create technology that benefits communities.
+<a href="https://github.com/azizullahtanvir/raw/main/assets/Aziz_Ullah_Tanvir_CV.pdf">
+
+<img src="https://img.shields.io/badge/View My%20Resume-PDF-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
 
 ## 🌐 Connect With Me
 
@@ -164,25 +200,23 @@ I believe technology should solve real-world problems and create opportunities f
 </p>
 
 
-## 📄 My Resume
-
-<p align="center">
-
-<a href="https://github.com/azizullahtanvir/raw/main/assets/Aziz_Ullah_Tanvir_CV.pdf">
-
-<img src="https://img.shields.io/badge/View My%20Resume-PDF-red?style=for-the-badge"/>
-
-</a>
-
-</p>
-
-## 🌍 My Mission
-
-To use technology and education to create opportunities and bring positive change to underserved communities.
-
-- ## 💡 Quote
+## 💡 Quote
 
 > "Technology is most meaningful when it empowers people through knowledge, opportunity, and service."
 ---
 
-⭐ Thank you for visiting my profile.
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile.
+
+💻 Building technology for education and humanitarian impact.
+
+🌍 Let's learn, build, and create positive change together.
+
+<br>
+
+<b>Aziz Ullah Tanvir</b>
+
+</div>
