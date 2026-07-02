@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I'm+Aziz+Ullah+Tanvir;Computer+%26+Communication+Engineering+Student;Building+Technology+for+Education+and+Humanitarian+Impact" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="aziz-github-banner-2.png" alt="GitHub Banner" width="100%">
 </p>
@@ -38,25 +37,29 @@ I believe technology should solve real-world problems and create opportunities f
 </p>
 
 
-## 📄 My Resume
 
-<p align="center">
+## 🏆 Achievements
 
-<a href="https://github.com/azizullahtanvir/raw/main/assets/Aziz_Ullah_Tanvir_CV.pdf">
+- 🎓 Computer & Communication Engineering Student
+- 💻 Computer Science Student at UoPeople
+- 📚 NGO School Teacher & Assistant Teacher Trainer
+- 🌍 Humanitarian Worker
+- 🚀 Working at **AG Institute**
+- ❤️ Working at **Azfara Foundation**
+- 🌱 Lifelong Learner and Technology Enthusiast
 
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge"/>
-
-</a>
-
-</p>
+  
 
 ## 🌱 Currently Working On
 
+- 🔭 Building **AG Institute** and **Azfara Foundation**
+- 💻 Strengthening my skills in **HTML, Java, C++, and Web Development**
+- 🌱 Exploring **Data Structures & Algorithms**
+- 🤝 Looking to contribute to **Open Source Projects**
+- 📖 Building a strong software engineering portfolio
 - 📚 Strengthening my programming fundamentals
 - 💻 Building web development projects
 - 🚀 Uploading university lab reports and projects
-- 🌍 Developing educational initiatives through AG Institute
-- ❤️ Growing Azfara Foundation through technology
 
 
 
@@ -64,9 +67,10 @@ I believe technology should solve real-world problems and create opportunities f
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizullahtanvir&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=azizullahtanvir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
+
+
 
 ## 🔥 GitHub Streak
 
@@ -152,6 +156,21 @@ I believe technology should solve real-world problems and create opportunities f
 </a>
 
 </p>
+
+
+## 📄 My Resume
+
+<p align="center">
+
+<a href="https://github.com/azizullahtanvir/raw/main/assets/Aziz_Ullah_Tanvir_CV.pdf">
+
+<img src="https://img.shields.io/badge/View My%20Resume-PDF-red?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+
 
 - ## 💡 Quote
 
