@@ -85,8 +85,10 @@ I believe technology should solve real-world problems and create opportunities f
 </p>
 
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azizullahtanvir/azizullahtanvir/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/azizullahtanvir/azizullahtanvir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
