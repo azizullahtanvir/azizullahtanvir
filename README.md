@@ -1,4 +1,7 @@
-# Hi there, I'm Aziz Ullah Tanvir 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Hello+%F0%9F%91%8B+I'm+Aziz+Ullah+Tanvir;Computer+%26+Communication+Engineering+Student;Building+Technology+for+Education+and+Humanitarian+Impact" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="aziz-github-banner-2.png" alt="GitHub Banner" width="100%">
