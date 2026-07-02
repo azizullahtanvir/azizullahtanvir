@@ -85,16 +85,10 @@ I believe technology should solve real-world problems and create opportunities f
 </p>
 
 
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azizullahtanvir/azizullahtanvir/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-| Project | Description |
-|----------|-------------|
-| 💻 C Programming Labs | University C programming laboratory reports and source codes.         |
-| 🌐 Web Programming Labs | HTML, CSS, Bootstrap, PHP laboratory works.         |
-| 📂 Java Programming | Java sessional programs and OOP concepts.         |
-| 🎓 University Projects | Academic projects and assignments.         |
-| ❤️ Azfara Foundation | Education and humanitarian initiatives.        |
-| 🌍 AG Institute | Educational resources and community learning platform.      |
 
 
 ## 🚀 Currently Learning
